@@ -1,6 +1,6 @@
 # Basics-of-Statistics-Analysis
 "Exploratory analysis using Python to compute mean, median, mode, standard deviation, and handle missing values in a sales dataset for understanding basic statistical concepts."
-# 📊 Basics of Statistics and Data Preprocessing
+# Basics of Statistics and Data Preprocessing
 
 > “A complete guide to descriptive statistics, visualization, standardization, and categorical encoding — building the foundation for clean and ready-to-use machine learning data.
 
